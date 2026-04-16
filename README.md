@@ -1,35 +1,7 @@
 ## Project Structure
 
-stanley-cup-prediction-model/
-│
-├── scripts/
-│   ├── run_pipeline.py              # Runs current-season predictions + simulation
-│   ├── evaluate_historical.py       # Backtests model on past seasons
-│   ├── clean_historical_data.py     # One-time data cleaning script
-│
-├── src/
-│   ├── features/
-│   │   ├── build_features.py
-│   │   ├── build_full_dataset.py
-│   │
-│   ├── models/
-│   │   ├── logistic_regression_model.py
-│   │
-│   ├── processing/
-│   │   ├── standings.py
-│   │   ├── matchups.py
-│   │   ├── history.py
-│   │   ├── team_stats.py
-│   │   ├── advanced_stats.py
-│   │   ├── build_training_dataset.py
-│   │
-│   ├── utils/
-│   │   ├── cache.py
-│
-├── cleaned_data/
-├── outputs/
-├── requirements.txt
-└── README.md
+<img width="633" height="560" alt="image" src="https://github.com/user-attachments/assets/90087cbf-db84-42d3-8d83-76455b1e72bb" />
+
 
 ## How to Run the Project
 
